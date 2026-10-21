@@ -1,0 +1,8 @@
+ffmpeg/
+ffmpeg-*/
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+*.7z
+*.zip
+*.tar.xz
